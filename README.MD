@@ -1,5 +1,7 @@
 # [The ``evil`` Programming Language Homepage](https://web.archive.org/web/20070103000858/www1.pacific.edu/~twrensch/evil/index.html)
 
+**The materials in this repository were not produced by the owner of the repository. Please click on the link in the header to go to the original web site these materials were copied from. The purpose of this copy is to automate setup of a mirror for https://tryitonline.net. It's more straight forward to clone a repository than to parse a web page.**
+
 `evil` is a programming language with a simple execution model and an even simpler syntax. The cost for this is that writing programs is quite painful. A good language for masocistic computer scientists.
 
 Commands in `evil` are single lowercase letters. Uppercase letters are reserved for standard library commands (still in process). All other characters are ignored.
